@@ -25,6 +25,10 @@ Constraints:
 -104 <= nums[i] <= 104
 nums contains distinct values sorted in ascending order.
 -104 <= target <= 104
+
+
+time complexity: O(log n)
+space complexity: O(1)
 '''
 
 
